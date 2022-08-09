@@ -26,3 +26,4 @@ else
     sum = x;
     Console.WriteLine(sum);
 }
+//checked
